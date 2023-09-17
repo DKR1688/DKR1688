@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/DKR1688/DKR1688/assets/141260848/6677c795-9c5c-47e1-9283-2ff596ca0c6d)
+<img align="right" alt="coding" width="400" src="https://github.com/DKR1688/DKR1688/assets/141260848/ab69357d-599c-417f-81e9-2580c8431f84
 ">
 
 
