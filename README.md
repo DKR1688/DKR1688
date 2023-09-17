@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/DKR1688/DKR1688/assets/141260848/ab69357d-599c-417f-81e9-2580c8431f84
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkr1688&label=Profile%20views&color=0e75b6&style=flat" alt="dkr1688" /> </p>
