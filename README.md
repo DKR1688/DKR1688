@@ -1,3 +1,6 @@
+![logo](https://github.com/DKR1688/DKR1688/assets/141260848/30a7328c-3241-4579-9f96-8401e359d24f)
+
+
 <h1 align="center">Hi 👋, I'm Deepak Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
