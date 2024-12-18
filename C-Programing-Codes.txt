@@ -1016,3 +1016,4 @@ int main() {
     else {
         printf ("Given number is not a armstrong.");
     }
+
