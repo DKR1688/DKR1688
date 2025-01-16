@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://fb.com/t.deepakrajput04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="t.deepakrajput04" height="30" width="40" /></a>
 <a href="https://instagram.com/t.deepakrajput04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.deepakrajput04" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepak-kumar-rajput-a86705272/"><img align="center" src="vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930480.png" alt="deepak-kumar-rajput-a86705272" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kumar-rajput-a86705272/"><img align="center" src="vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930480.png" alt="deepak-kumar-rajput-a86705272" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
